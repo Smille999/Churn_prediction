@@ -1,4 +1,4 @@
-# churn_prediction
+# Churn_prediction
 
 Analyse et prédiction des résiliations client (**churn**) dans le secteur des télécommunications. Ce projet vise à explorer les données pour identifier les facteurs influençant le churn et à développer des modèles prédictifs fiables pour améliorer la fidélisation des clients.
 
